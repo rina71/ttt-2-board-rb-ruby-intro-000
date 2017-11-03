@@ -1,4 +1,4 @@
-put = "board"
+board = "board"
 board = ["  ","  ","  "]
 
 row [0] = "1"

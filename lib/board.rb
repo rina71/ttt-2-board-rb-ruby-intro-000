@@ -1,5 +1,5 @@
-
-board = [" 1 "," 2 "," 3 "]
+board = "board"
+board = ["  ","  ","  "]
 
 board [0] = "1"
 Board [1] = "2"
